@@ -1,0 +1,13 @@
+from,to,weight
+HP,HG,3
+HP,RW,3
+HP,AD,2
+HG,RW,3
+HG,AD,1
+RW,AD,1
+AD,SS,1
+AD,MM,1
+AD,RH,1
+SS,MM,1
+SS,RH,1
+RH,MM,1
